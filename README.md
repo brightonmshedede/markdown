@@ -1,50 +1,62 @@
-**Awesome Markdown Repositories**
-A curated list of Markdown repositories.
+# Awesome Markdown repositories
+**A collection of Markdown repositories.**
 
-Created with MindForger.
+_Created with [MindForger](https://github.com/dvorka/mindforger)._
 
-**Markdown**
-Awesome Markdown - A comprehensive collection of Markdown tools, libraries, editors, and cheatsheets.
+# Markdown
+Markdown:
 
-Markdown Guide - The ultimate Markdown reference guide formatted as a book.
+* [Awesome Markdown](https://github.com/mundimark/awesome-markdown) - a collection of Markdown goodies (libraries, services, editors, tools, cheatsheets)
+* [Awesome Markdown editors](https://github.com/mundimark/awesome-markdown-editors)- a collection of Markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows and web.
+* [Markdown Guide](https://github.com/mattcone/markdown-guide-book) - the comprehensive Markdown reference guide, in book format.
+* [GitHub emoji cheatsheet](https://gist.github.com/rxaviers/7360908) - complete list of GitHub markdown emoji markup.
+# Algorithms
+Algorithms:
 
-GitHub Emoji Cheatsheet - Complete list of GitHub Markdown emoji markup.
+* [JavaScript algorithms](https://github.com/trekhleb/javascript-algorithms) - algorithms and data structures implemented in JavaScript with explanations and links for further reading.
+# Programming
+Programming:
 
-**Algorithms**
-JavaScript Algorithms - Data structures and algorithms in JavaScript with detailed explanations.
-**
-**Programming****
-General
-Build Your Own X - Hands-on projects to build your own technology from scratch.
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x) - build your own (insert technology here).
 
-**C++**
-C++ Core Guidelines - Tried-and-true rules and best practices for C++ coding.
+C++:
 
-**Objective-C**
-Objective-C Style Guide - The New York Times' style guide for Objective-C.
+* [C++ core quidelines](https://github.com/isocpp/CppCoreGuidelines) - the C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 
-**JavaScript**
-JavaScript Algorithms - Algorithms and data structures in JavaScript, designed for learning and practice.
+Objective C:
 
-Front-end Developer Handbook - A comprehensive guide to front-end development practices.
+* [Objective C style guide](https://github.com/NYTimes/objective-c-style-guide) - the Objective-C Style Guide used by The New York Times.
 
-**Git SCM**
-Pro Git 2nd Edition - The complete content of the Pro Git book, 2nd edition.
+JavaScript:
 
-Pro Git 1st Edition - The original content of the Pro Git book, 1st edition.
+* [JavaScript algorithms](https://github.com/trekhleb/javascript-algorithms) - algorithms and data structures implemented in JavaScript with explanations and links for further reading.
+* [Front-end developer handbook](https://github.com/FrontendMasters/front-end-handbook-2018) - a guide that anyone could use to learn about the practice of front-end development.
 
-**AI**
-AI Services
-Awesome AI Services - Overview of AI-as-a-service providers.
+Git SCM:
 
-**Neural Networks**
-Build Your Own Neural Network - Build your own neural network projects.
+* [Pro Git 2nd edition](https://github.com/progit/progit2) - Pro Git book content, 2nd edition.
+* [Pro Git 1st edition](https://github.com/progit/progit) - Pro Git book content, 1st edition.
 
-**Computer Vision**
-Awesome Computer Vision - Curated list of resources for computer vision enthusiasts.
+# AI
+AI services:
 
-**Communities and Social Resources**
-Do You Even Learn - Essential guide to staying updated with AI, machine learning, and computer vision.
+* [Awesome AI services](https://github.com/sekwiatkowski/awesome-ai-services) - an overview of the AI-as-a-service landscape.
 
-**Interviews**
-Hiring Without Whiteboards - Companies with alternative hiring practices that don't rely on whiteboard interviews.
+Neural networks:
+
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x#build-your-own-neural-network) - build your own NN.
+
+Computer vision:
+
+* [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - a curated list of awesome computer vision resources.
+
+Communities and social resources:
+
+* [Do you even learn](https://github.com/BAILOOL/DoYouEvenLearn) - essential Guide to keep up with AI/ML/CV.
+
+# Interviews
+Interviews:
+
+* [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards) - companies that don't have a broken hiring process.
+
+
